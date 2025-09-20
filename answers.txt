@@ -5,3 +5,6 @@ Data science is very useful in a lot of fields, such as medicial, insurance, and
 >>>>>>> q2
 
 merge combines the two branches, where rebasing put one branch on top of another. 
+
+learning about introducing ml and cnn, as well as npl in this class. 
+
