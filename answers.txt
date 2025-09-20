@@ -3,3 +3,5 @@ Because git is connected to github, and is a nice way to collaborate and figure 
 =======
 Data science is very useful in a lot of fields, such as medicial, insurance, and business, etc. 
 >>>>>>> q2
+
+merge combines the two branches, where rebasing put one branch on top of another. 
