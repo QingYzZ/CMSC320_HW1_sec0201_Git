@@ -1,0 +1,1 @@
+Because git is connected to github, and is a nice way to collaborate and figure things out for a large project
